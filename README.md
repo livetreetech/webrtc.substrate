@@ -8,5 +8,5 @@ Innovative media company that combines technology with a focus on sustainability
 Objectives 
 
 - By extending WebRTC protocols, namely, Session Description Protocol "SDP" to enable 
-  - Enable exchange of user data for PMP Programatic Advertising Revenue
-  - Tracking of media metadata using substrate, notably, IPFS and IPFD link to 
+  - The exchange of user data for rewards including PMP Programatic Advertising Revenue
+  - Tracking of media metadata using Substrate, notably, IPFS and IPFD linked hierarchies for extension to https://solid.mit.edu/
