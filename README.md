@@ -22,7 +22,7 @@ Ashley Turing will be leading the team.
 
 Alexander Mitrovich consultant from the Usetech team  https://www.linkedin.com/in/alexandermitrovich/
 
-App development http://www.faceunity.com/ for visual effects.
+
 
 
 Team Website
@@ -63,8 +63,6 @@ Grant request key facts:
 
 Innovative use of Substrate and Polkadot.
 
-$30k 
-
 Timeframe: 3 months.
 
 Apache 2.0 License 
@@ -81,7 +79,7 @@ Conversion - The conversion rate between the tokens and the underlying FIAT pool
 
 
 
-Milestone 1 — Implement Base Substrate Modules  — 1 month — $10,000
+Milestone 1 — Implement Base Substrate Modules  — 1 month 
 Objectives
 Create substrate blockchain extending existing code base for WebRTC Item with:
 
@@ -150,7 +148,7 @@ Executive manager that provides
  
 
 
-Milestone 2 — Implement Substrate Front-End Apps   — 1 month — $10,000
+Milestone 2 — Implement Substrate Front-End Apps   — 1 month 
 Objectives
 
 In this sprint we will be focusing on the front-end development (which we envisage will work on a series of React, Native, and administration and dashboard tools). 
@@ -161,7 +159,7 @@ We will continually deliver a working module(s) along with a simple tutorial tha
 
 
 
-Milestone 3 — WebRTC Substrate Community Marketplace Extensions — 1 month — $10,000
+Milestone 3 — WebRTC Substrate Community Marketplace Extensions — 1 month 
 Objectives
 The major objective for this month would be to facilitate ‘Marketplace’ for community extensions that utilise the substrate audit of royalty pools, advertising pools or funding mechanisms. These community extensions could be for:
 
